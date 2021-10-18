@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/udundiChallenge_kmosoti/static/css/main.a617e044.chunk.css",
+    "main.js": "/udundiChallenge_kmosoti/static/js/main.6757e623.chunk.js",
+    "main.js.map": "/udundiChallenge_kmosoti/static/js/main.6757e623.chunk.js.map",
+    "runtime-main.js": "/udundiChallenge_kmosoti/static/js/runtime-main.890100dd.js",
+    "runtime-main.js.map": "/udundiChallenge_kmosoti/static/js/runtime-main.890100dd.js.map",
+    "static/js/2.bb64255b.chunk.js": "/udundiChallenge_kmosoti/static/js/2.bb64255b.chunk.js",
+    "static/js/2.bb64255b.chunk.js.map": "/udundiChallenge_kmosoti/static/js/2.bb64255b.chunk.js.map",
+    "static/js/3.238a9aa4.chunk.js": "/udundiChallenge_kmosoti/static/js/3.238a9aa4.chunk.js",
+    "static/js/3.238a9aa4.chunk.js.map": "/udundiChallenge_kmosoti/static/js/3.238a9aa4.chunk.js.map",
+    "index.html": "/udundiChallenge_kmosoti/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/udundiChallenge_kmosoti/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.bb64255b.chunk.js.LICENSE.txt": "/udundiChallenge_kmosoti/static/js/2.bb64255b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/udundiChallenge_kmosoti/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.890100dd.js",
+    "static/js/2.bb64255b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6757e623.chunk.js"
+  ]
+}
